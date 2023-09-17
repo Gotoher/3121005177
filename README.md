@@ -1,2 +1,2 @@
-# 3121005177
-基于SimHash的文本查重
+# SimHashForJavaAndChinese
+java版本的simhash算法实现中文文本查重
